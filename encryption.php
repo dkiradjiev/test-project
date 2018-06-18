@@ -12,6 +12,7 @@
  * - Uses Key stretching
  * - Hides the Initialization Vector
  * - Does HMAC verification of source data
+ * - test the git commit
  *
  */
 class Encryption {
